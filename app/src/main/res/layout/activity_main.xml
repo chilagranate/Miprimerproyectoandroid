@@ -14,10 +14,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:text="@string/txt1"
             android:textColor="@android:color/black"
-            android:textSize="24sp"
+            android:textSize="34sp"
+            android:textStyle="bold"
+
             />
 
 
@@ -26,9 +28,9 @@
             android:id="@+id/main_login_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
+            android:layout_centerVertical="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="20dp"
+            android:textSize="18dp"
             android:text="@string/button1" />
 
     </RelativeLayout>
