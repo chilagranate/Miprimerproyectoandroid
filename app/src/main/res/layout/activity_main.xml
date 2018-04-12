@@ -17,8 +17,8 @@
             android:layout_marginTop="30dp"
             android:text="@string/txt1"
             android:textColor="@android:color/black"
-            android:textSize="34sp"
-            android:textStyle="bold"
+            android:textSize="32sp"
+
 
             />
 
